@@ -1,4 +1,4 @@
-# codeReviewFun
+# CodeReviewFun
 
 ## Directions
 * Fork repository
